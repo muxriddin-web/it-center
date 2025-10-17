@@ -2,7 +2,7 @@
   "name": "project1-web",
   "version": "1.0.0",
   "description": "",
-  "main": "templatemo-glossy-touch.js",
+  "main": "main.js",
   "scripts": {
     "start": "nodemon server.js"
   },
