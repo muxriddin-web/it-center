@@ -34,3 +34,8 @@ const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => {
   console.log(`🚀 Server ishga tushdi: http://localhost:${PORT}`);
 });
+// app.listen(5000, '192.168.42.125', () => {
+//   console.log("Server running on http://192.168.42.125:5000");
+// });
+
+
